@@ -32,11 +32,13 @@
                 New DataFrame is created to get the sum of the fare for each week
                 
                 
-                ![image](https://user-images.githubusercontent.com/112978144/206292401-229eaf82-4870-4d9c-a303-8e6949fca240.png)
+                
+                
 
                           
          
 
+![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206293258-aa35dd85-4600-4f5c-a943-6cd87354386c.png)
 
           
           
