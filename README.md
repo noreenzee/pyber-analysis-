@@ -40,6 +40,8 @@
 The above chart shows that the money made by the ride_service is fairly steady from Jan to about mid Feb and then it little spike at the end of Feb than it slow down again. Urban cities generate the most total revenue, followed by suburban and rural areas. 
 
 The observed outcomes are not surprising, given that cities are expected to generate more revenue because they have more rides than suburban or rural areas taht ends up in most revenue. It can be infer that most drivers likely prefer to work in urban city type to generate more money. 
+* More rides = more revenue.
+
                 
                 
 
