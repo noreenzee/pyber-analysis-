@@ -36,7 +36,35 @@
                 
 
                           
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
          ![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206293258-aa35dd85-4600-4f5c-a943-6cd87354386c.png)
+         
+         
+         
+         
+         
+         
 
           
           
@@ -58,7 +86,20 @@
           
           
           
-          ![pyber chart](https://user-images.githubusercontent.com/112978144/206294747-8aa5b4b8-d42c-4dda-82ec-aa83fb562df1.png)
+        
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          ![pyber chart](https://user-images.githubusercontent.com/112978144/206296583-06f2cc9c-7d88-401c-8c29-e8027ae186e7.png)
 
           
           
@@ -113,18 +154,6 @@
           
           
           
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
                 
                 
                 
@@ -164,10 +193,7 @@
                 
                 
                 
-                than resampled data is plotted using df.plot function and in plot format all above findings look like this
                 
-                
-                ![image](https://user-images.githubusercontent.com/112978144/206270608-a375587e-d7de-4b18-92cd-a5950ae11bd6.png)
 
                 
                 
