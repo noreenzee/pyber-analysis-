@@ -244,34 +244,23 @@
                 
                 
                 
-              ![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206298910-e99f385e-a232-42e1-83f2-31738986679f.png)   
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-                
-
-
-
-
-
-
-
-
-
-
-![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206298910-e99f385e-a232-42e1-83f2-31738986679f.png)
+              ![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206298910-e99f385
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              ![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206298910-e99f385e-a232-42e1-83f2-31738986679f.png)
 
 
 
