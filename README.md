@@ -110,7 +110,7 @@
           
           
           
-          ![pyber chart](https://user-images.githubusercontent.com/112978144/206298953-79cae7c6-4639-4816-bdf3-8bb4db1a85d8.png)
+         
 
           
           
@@ -266,6 +266,7 @@ The above chart shows that the money made by the ride_service is fairly steady f
 The observed outcomes are not surprising, given that cities are expected to generate more revenue because they have more rides than suburban or rural areas taht ends up in most revenue. It can be infer that most drivers likely prefer to work in urban city type to generate more money. 
 * More rides = more revenue.
 
+ ![pyber chart](https://user-images.githubusercontent.com/112978144/206298953-79cae7c6-4639-4816-bdf3-8bb4db1a85d8.png)
                 
                 
 
