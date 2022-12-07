@@ -21,7 +21,7 @@
                                           
 * Average fare per ride
                         As there are most rides in urban city type when we try to find the averge fare per ride it shows that there less fare in urban city type. That means where there are more rides there is less fare for a ride as we can compare both total rides in each city type and average fare per ride. 
-  *Total rides, total fare and Average fare:
+  *Total rides, total fare and Average fare
   
                         ![image](https://user-images.githubusercontent.com/112978144/206261231-faec836b-67af-47c0-813f-b35670a3034e.png)
  Pivot table
@@ -50,15 +50,7 @@
          
          
          
-         
-         
-         
-         
-         
-         
-         
-         
-         ![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206293258-aa35dd85-4600-4f5c-a943-6cd87354386c.png)
+    
          
          
          
@@ -68,7 +60,8 @@
 
           
           
-          
+          ![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206298910-e99f385e-a232-42e1-83f2-31738986679f.png)
+
           
           
           
@@ -117,7 +110,8 @@
           
           
           
-          
+          ![pyber chart](https://user-images.githubusercontent.com/112978144/206298953-79cae7c6-4639-4816-bdf3-8bb4db1a85d8.png)
+
           
           
           
