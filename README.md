@@ -32,9 +32,10 @@
                 New DataFrame is created to get the sum of the fare for each week
                 
                 
-                
+                ![image](https://user-images.githubusercontent.com/112978144/206292401-229eaf82-4870-4d9c-a303-8e6949fca240.png)
+
                           
-          ![image](https://user-images.githubusercontent.com/112978144/206287130-e9f13012-8ccd-4dd9-b609-f3911034f596.png)
+         
 
 
           
