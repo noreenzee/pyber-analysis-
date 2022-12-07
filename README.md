@@ -1,12 +1,12 @@
 # pyber-analysis-
-# Overview of the Challenge: 
+# Overview of the Challenge 
                             The main purpose of this project is to visualize data in order to provide access and understanding of ridesharing services in city and neighbourhood. The city data and ride data was provided in csv file type in order to visualize data, both files are merged and then find different outcomes. Following paragraph will depict the summary of this challenge in discription and screenshort form:
-# Summary of DataFrame: 
+# Summary of DataFrame 
                         Total number of rides were divided in three different types the "rural, Suburban and urban" and by using groupby and count function we find that there were "urban rides" on top of rural and suburban. As it shows in this screenshot:
                         ![image](https://user-images.githubusercontent.com/112978144/206255548-0b7ca532-7f4d-47f9-8559-291624211867.png)
 
 
-# Total Drivers:
+# Total Drivers
                 As there were Urban rides the most we find that Urban Drivers were most as well and it's obvious because where there are most rides most drivers are needed as well. Data shows that for 1625 urban rides there are 2405 urban drivers are available as shown in this picture:
                 ![image](https://user-images.githubusercontent.com/112978144/206257572-2be62716-c050-435d-95fd-73791c0e4c61.png)
                 
