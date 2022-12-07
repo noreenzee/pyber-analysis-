@@ -244,7 +244,6 @@
                 
                 
                 
-              ![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206298910-e99f385
               
               
               
@@ -260,11 +259,21 @@
               
               
               
-              ![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206298910-e99f385e-a232-42e1-83f2-31738986679f.png)
+              
+
+![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206301544-c123aace-9127-4f4a-bcc3-1e06ce459ce9.png)
+
+
+
+
+
+
+
 
 
 
 than resampled data is plotted using df.plot function and in plot format all above findings look like this
+
 
 
 
