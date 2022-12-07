@@ -14,7 +14,7 @@
                 
 
  *Total amount of Fare for each city type
-                                          Data shows that there is a huge difference in each city type fare. There is lowest fare in rural areas and highest fare in urban city type as shown here:
+                                          Data shows that there is a huge difference in each city type fare. There is lowest fare in rural areas and highest fare in urban city type as shown here
                                           ![image](https://user-images.githubusercontent.com/112978144/206259834-45772653-7460-4c90-9786-6b809b48cb76.png)
                                           
                                           
@@ -24,11 +24,11 @@
   *Total rides, total fare and Average fare:
   
                         ![image](https://user-images.githubusercontent.com/112978144/206261231-faec836b-67af-47c0-813f-b35670a3034e.png)
- Pivot table:
-              Pivot table is created to find the total fares for each type of city by the date and it shows following data:
+ Pivot table
+              Pivot table is created to find the total fares for each type of city by the date and it shows following data
               ![image](https://user-images.githubusercontent.com/112978144/206263151-26a034e5-debb-47a2-b017-0b75abd0b078.png)
 
-* Resample Data
+ Resample Data
                 New DataFrame is created to get the sum of the fare for each week
                 
                 
