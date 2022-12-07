@@ -187,6 +187,8 @@
                 than resampled data is plotted using df.plot function and in plot format all above findings look like this
                 
                 
+                ![image](https://user-images.githubusercontent.com/112978144/206270608-a375587e-d7de-4b18-92cd-a5950ae11bd6.png)
+
                 
                 
                 
@@ -255,7 +257,7 @@
                 
                 
                 
-                ![image](https://user-images.githubusercontent.com/112978144/206264350-aaa18a8c-ca1e-4998-a4f9-6a4315c5f90b.png)
+                
                 
                 
                 
