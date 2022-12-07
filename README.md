@@ -264,7 +264,53 @@
 
 
 
+
+
+
+
+
+
+
+![Screenshot pyber](https://user-images.githubusercontent.com/112978144/206298910-e99f385e-a232-42e1-83f2-31738986679f.png)
+
+
+
 than resampled data is plotted using df.plot function and in plot format all above findings look like this
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  ![pyber chart](https://user-images.githubusercontent.com/112978144/206298953-79cae7c6-4639-4816-bdf3-8bb4db1a85d8.png)
  
