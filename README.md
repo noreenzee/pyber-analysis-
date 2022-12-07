@@ -29,12 +29,12 @@
               ![image](https://user-images.githubusercontent.com/112978144/206263151-26a034e5-debb-47a2-b017-0b75abd0b078.png)
 
 * Resample Data
-                New DataFrame is created to get the sum of the fare for each week:
+                New DataFrame is created to get the sum of the fare for each week
                 
                 ![image](https://user-images.githubusercontent.com/112978144/206263843-f0f8e7b2-63d9-4604-b40f-60a4bcaadf17.png)
                 
                 
-                          ![image](https://user-images.githubusercontent.com/112978144/206263843-f0f8e7b2-63d9-4604-b40f-60a4bcaadf17.png)
+                          
           
           
           
